@@ -27,7 +27,7 @@
 		</tr>
 		<?php
 
-		 // looping data keranjang belanja
+		 //looping data keranjang belanja
 		 foreach($keranjang as $keranjang) { 
 		 // ambil data produk
 		 	$id_produk = $keranjang['id'];
